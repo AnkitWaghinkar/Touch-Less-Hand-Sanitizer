@@ -1,0 +1,3 @@
+int RELAY = 10;
+int SENSOR = 8;
+int SENSOR-STATUS;
